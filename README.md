@@ -1,2 +1,2 @@
 # BD_Luigy
-![](imagen/TABLA.png)
+![](imagen/imagen2.jpeg)
